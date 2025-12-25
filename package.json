@@ -9,9 +9,13 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "exifreader": "^4.33.1",
+    "lucide-react": "^0.562.0",
     "next": "16.1.1",
+    "pixelmatch": "^7.1.0",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "sharp": "^0.34.5"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
